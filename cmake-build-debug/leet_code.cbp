@@ -80,6 +80,9 @@
 				</MakeCommands>
 			</Target>
 		</Build>
+		<Unit filename="C:/Users/alias/CLionProjects/leet-code/136-single-number.cpp">
+			<Option target="leet_code"/>
+		</Unit>
 		<Unit filename="C:/Users/alias/CLionProjects/leet-code/main.cpp">
 			<Option target="leet_code"/>
 		</Unit>

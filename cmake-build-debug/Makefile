@@ -128,6 +128,30 @@ leet_code/fast:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\leet_code.dir\build.make CMakeFiles/leet_code.dir/build
 .PHONY : leet_code/fast
 
+136-single-number.obj: 136-single-number.cpp.obj
+.PHONY : 136-single-number.obj
+
+# target to build an object file
+136-single-number.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\leet_code.dir\build.make CMakeFiles/leet_code.dir/136-single-number.cpp.obj
+.PHONY : 136-single-number.cpp.obj
+
+136-single-number.i: 136-single-number.cpp.i
+.PHONY : 136-single-number.i
+
+# target to preprocess a source file
+136-single-number.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\leet_code.dir\build.make CMakeFiles/leet_code.dir/136-single-number.cpp.i
+.PHONY : 136-single-number.cpp.i
+
+136-single-number.s: 136-single-number.cpp.s
+.PHONY : 136-single-number.s
+
+# target to generate assembly for a file
+136-single-number.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\leet_code.dir\build.make CMakeFiles/leet_code.dir/136-single-number.cpp.s
+.PHONY : 136-single-number.cpp.s
+
 main.obj: main.cpp.obj
 .PHONY : main.obj
 
@@ -161,6 +185,9 @@ help:
 	@echo ... edit_cache
 	@echo ... rebuild_cache
 	@echo ... leet_code
+	@echo ... 136-single-number.obj
+	@echo ... 136-single-number.i
+	@echo ... 136-single-number.s
 	@echo ... main.obj
 	@echo ... main.i
 	@echo ... main.s

@@ -8,6 +8,7 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_CXX
+  "C:/Users/alias/CLionProjects/leet-code/121-stock-problem.cpp" "C:/Users/alias/CLionProjects/leet-code/cmake-build-debug/CMakeFiles/leet_code.dir/121-stock-problem.cpp.obj"
   "C:/Users/alias/CLionProjects/leet-code/136-single-number.cpp" "C:/Users/alias/CLionProjects/leet-code/cmake-build-debug/CMakeFiles/leet_code.dir/136-single-number.cpp.obj"
   "C:/Users/alias/CLionProjects/leet-code/main.cpp" "C:/Users/alias/CLionProjects/leet-code/cmake-build-debug/CMakeFiles/leet_code.dir/main.cpp.obj"
   )

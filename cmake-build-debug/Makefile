@@ -128,6 +128,30 @@ leet_code/fast:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\leet_code.dir\build.make CMakeFiles/leet_code.dir/build
 .PHONY : leet_code/fast
 
+121-stock-problem.obj: 121-stock-problem.cpp.obj
+.PHONY : 121-stock-problem.obj
+
+# target to build an object file
+121-stock-problem.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\leet_code.dir\build.make CMakeFiles/leet_code.dir/121-stock-problem.cpp.obj
+.PHONY : 121-stock-problem.cpp.obj
+
+121-stock-problem.i: 121-stock-problem.cpp.i
+.PHONY : 121-stock-problem.i
+
+# target to preprocess a source file
+121-stock-problem.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\leet_code.dir\build.make CMakeFiles/leet_code.dir/121-stock-problem.cpp.i
+.PHONY : 121-stock-problem.cpp.i
+
+121-stock-problem.s: 121-stock-problem.cpp.s
+.PHONY : 121-stock-problem.s
+
+# target to generate assembly for a file
+121-stock-problem.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\leet_code.dir\build.make CMakeFiles/leet_code.dir/121-stock-problem.cpp.s
+.PHONY : 121-stock-problem.cpp.s
+
 136-single-number.obj: 136-single-number.cpp.obj
 .PHONY : 136-single-number.obj
 
@@ -185,6 +209,9 @@ help:
 	@echo ... edit_cache
 	@echo ... rebuild_cache
 	@echo ... leet_code
+	@echo ... 121-stock-problem.obj
+	@echo ... 121-stock-problem.i
+	@echo ... 121-stock-problem.s
 	@echo ... 136-single-number.obj
 	@echo ... 136-single-number.i
 	@echo ... 136-single-number.s

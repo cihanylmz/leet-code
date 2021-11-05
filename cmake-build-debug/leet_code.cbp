@@ -86,6 +86,18 @@
 		<Unit filename="C:/Users/alias/CLionProjects/leet-code/136-single-number.cpp">
 			<Option target="leet_code"/>
 		</Unit>
+		<Unit filename="C:/Users/alias/CLionProjects/leet-code/242-valid-anagram.cpp">
+			<Option target="leet_code"/>
+		</Unit>
+		<Unit filename="C:/Users/alias/CLionProjects/leet-code/344-reverse-string.cpp">
+			<Option target="leet_code"/>
+		</Unit>
+		<Unit filename="C:/Users/alias/CLionProjects/leet-code/412-fizz-buzz.cpp">
+			<Option target="leet_code"/>
+		</Unit>
+		<Unit filename="C:/Users/alias/CLionProjects/leet-code/53-max-subarray.cpp">
+			<Option target="leet_code"/>
+		</Unit>
 		<Unit filename="C:/Users/alias/CLionProjects/leet-code/main.cpp">
 			<Option target="leet_code"/>
 		</Unit>

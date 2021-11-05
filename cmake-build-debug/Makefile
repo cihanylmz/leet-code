@@ -176,6 +176,102 @@ leet_code/fast:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\leet_code.dir\build.make CMakeFiles/leet_code.dir/136-single-number.cpp.s
 .PHONY : 136-single-number.cpp.s
 
+242-valid-anagram.obj: 242-valid-anagram.cpp.obj
+.PHONY : 242-valid-anagram.obj
+
+# target to build an object file
+242-valid-anagram.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\leet_code.dir\build.make CMakeFiles/leet_code.dir/242-valid-anagram.cpp.obj
+.PHONY : 242-valid-anagram.cpp.obj
+
+242-valid-anagram.i: 242-valid-anagram.cpp.i
+.PHONY : 242-valid-anagram.i
+
+# target to preprocess a source file
+242-valid-anagram.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\leet_code.dir\build.make CMakeFiles/leet_code.dir/242-valid-anagram.cpp.i
+.PHONY : 242-valid-anagram.cpp.i
+
+242-valid-anagram.s: 242-valid-anagram.cpp.s
+.PHONY : 242-valid-anagram.s
+
+# target to generate assembly for a file
+242-valid-anagram.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\leet_code.dir\build.make CMakeFiles/leet_code.dir/242-valid-anagram.cpp.s
+.PHONY : 242-valid-anagram.cpp.s
+
+344-reverse-string.obj: 344-reverse-string.cpp.obj
+.PHONY : 344-reverse-string.obj
+
+# target to build an object file
+344-reverse-string.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\leet_code.dir\build.make CMakeFiles/leet_code.dir/344-reverse-string.cpp.obj
+.PHONY : 344-reverse-string.cpp.obj
+
+344-reverse-string.i: 344-reverse-string.cpp.i
+.PHONY : 344-reverse-string.i
+
+# target to preprocess a source file
+344-reverse-string.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\leet_code.dir\build.make CMakeFiles/leet_code.dir/344-reverse-string.cpp.i
+.PHONY : 344-reverse-string.cpp.i
+
+344-reverse-string.s: 344-reverse-string.cpp.s
+.PHONY : 344-reverse-string.s
+
+# target to generate assembly for a file
+344-reverse-string.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\leet_code.dir\build.make CMakeFiles/leet_code.dir/344-reverse-string.cpp.s
+.PHONY : 344-reverse-string.cpp.s
+
+412-fizz-buzz.obj: 412-fizz-buzz.cpp.obj
+.PHONY : 412-fizz-buzz.obj
+
+# target to build an object file
+412-fizz-buzz.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\leet_code.dir\build.make CMakeFiles/leet_code.dir/412-fizz-buzz.cpp.obj
+.PHONY : 412-fizz-buzz.cpp.obj
+
+412-fizz-buzz.i: 412-fizz-buzz.cpp.i
+.PHONY : 412-fizz-buzz.i
+
+# target to preprocess a source file
+412-fizz-buzz.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\leet_code.dir\build.make CMakeFiles/leet_code.dir/412-fizz-buzz.cpp.i
+.PHONY : 412-fizz-buzz.cpp.i
+
+412-fizz-buzz.s: 412-fizz-buzz.cpp.s
+.PHONY : 412-fizz-buzz.s
+
+# target to generate assembly for a file
+412-fizz-buzz.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\leet_code.dir\build.make CMakeFiles/leet_code.dir/412-fizz-buzz.cpp.s
+.PHONY : 412-fizz-buzz.cpp.s
+
+53-max-subarray.obj: 53-max-subarray.cpp.obj
+.PHONY : 53-max-subarray.obj
+
+# target to build an object file
+53-max-subarray.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\leet_code.dir\build.make CMakeFiles/leet_code.dir/53-max-subarray.cpp.obj
+.PHONY : 53-max-subarray.cpp.obj
+
+53-max-subarray.i: 53-max-subarray.cpp.i
+.PHONY : 53-max-subarray.i
+
+# target to preprocess a source file
+53-max-subarray.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\leet_code.dir\build.make CMakeFiles/leet_code.dir/53-max-subarray.cpp.i
+.PHONY : 53-max-subarray.cpp.i
+
+53-max-subarray.s: 53-max-subarray.cpp.s
+.PHONY : 53-max-subarray.s
+
+# target to generate assembly for a file
+53-max-subarray.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\leet_code.dir\build.make CMakeFiles/leet_code.dir/53-max-subarray.cpp.s
+.PHONY : 53-max-subarray.cpp.s
+
 main.obj: main.cpp.obj
 .PHONY : main.obj
 
@@ -215,6 +311,18 @@ help:
 	@echo ... 136-single-number.obj
 	@echo ... 136-single-number.i
 	@echo ... 136-single-number.s
+	@echo ... 242-valid-anagram.obj
+	@echo ... 242-valid-anagram.i
+	@echo ... 242-valid-anagram.s
+	@echo ... 344-reverse-string.obj
+	@echo ... 344-reverse-string.i
+	@echo ... 344-reverse-string.s
+	@echo ... 412-fizz-buzz.obj
+	@echo ... 412-fizz-buzz.i
+	@echo ... 412-fizz-buzz.s
+	@echo ... 53-max-subarray.obj
+	@echo ... 53-max-subarray.i
+	@echo ... 53-max-subarray.s
 	@echo ... main.obj
 	@echo ... main.i
 	@echo ... main.s

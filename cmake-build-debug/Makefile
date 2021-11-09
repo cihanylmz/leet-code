@@ -200,6 +200,30 @@ leet_code/fast:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\leet_code.dir\build.make CMakeFiles/leet_code.dir/242-valid-anagram.cpp.s
 .PHONY : 242-valid-anagram.cpp.s
 
+28-implement-strstr.obj: 28-implement-strstr.cpp.obj
+.PHONY : 28-implement-strstr.obj
+
+# target to build an object file
+28-implement-strstr.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\leet_code.dir\build.make CMakeFiles/leet_code.dir/28-implement-strstr.cpp.obj
+.PHONY : 28-implement-strstr.cpp.obj
+
+28-implement-strstr.i: 28-implement-strstr.cpp.i
+.PHONY : 28-implement-strstr.i
+
+# target to preprocess a source file
+28-implement-strstr.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\leet_code.dir\build.make CMakeFiles/leet_code.dir/28-implement-strstr.cpp.i
+.PHONY : 28-implement-strstr.cpp.i
+
+28-implement-strstr.s: 28-implement-strstr.cpp.s
+.PHONY : 28-implement-strstr.s
+
+# target to generate assembly for a file
+28-implement-strstr.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\leet_code.dir\build.make CMakeFiles/leet_code.dir/28-implement-strstr.cpp.s
+.PHONY : 28-implement-strstr.cpp.s
+
 344-reverse-string.obj: 344-reverse-string.cpp.obj
 .PHONY : 344-reverse-string.obj
 
@@ -314,6 +338,9 @@ help:
 	@echo ... 242-valid-anagram.obj
 	@echo ... 242-valid-anagram.i
 	@echo ... 242-valid-anagram.s
+	@echo ... 28-implement-strstr.obj
+	@echo ... 28-implement-strstr.i
+	@echo ... 28-implement-strstr.s
 	@echo ... 344-reverse-string.obj
 	@echo ... 344-reverse-string.i
 	@echo ... 344-reverse-string.s

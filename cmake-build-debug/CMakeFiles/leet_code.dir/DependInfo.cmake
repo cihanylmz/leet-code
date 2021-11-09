@@ -11,6 +11,7 @@ set(CMAKE_DEPENDS_CHECK_CXX
   "C:/Users/alias/CLionProjects/leet-code/121-stock-problem.cpp" "C:/Users/alias/CLionProjects/leet-code/cmake-build-debug/CMakeFiles/leet_code.dir/121-stock-problem.cpp.obj"
   "C:/Users/alias/CLionProjects/leet-code/136-single-number.cpp" "C:/Users/alias/CLionProjects/leet-code/cmake-build-debug/CMakeFiles/leet_code.dir/136-single-number.cpp.obj"
   "C:/Users/alias/CLionProjects/leet-code/242-valid-anagram.cpp" "C:/Users/alias/CLionProjects/leet-code/cmake-build-debug/CMakeFiles/leet_code.dir/242-valid-anagram.cpp.obj"
+  "C:/Users/alias/CLionProjects/leet-code/28-implement-strstr.cpp" "C:/Users/alias/CLionProjects/leet-code/cmake-build-debug/CMakeFiles/leet_code.dir/28-implement-strstr.cpp.obj"
   "C:/Users/alias/CLionProjects/leet-code/344-reverse-string.cpp" "C:/Users/alias/CLionProjects/leet-code/cmake-build-debug/CMakeFiles/leet_code.dir/344-reverse-string.cpp.obj"
   "C:/Users/alias/CLionProjects/leet-code/412-fizz-buzz.cpp" "C:/Users/alias/CLionProjects/leet-code/cmake-build-debug/CMakeFiles/leet_code.dir/412-fizz-buzz.cpp.obj"
   "C:/Users/alias/CLionProjects/leet-code/53-max-subarray.cpp" "C:/Users/alias/CLionProjects/leet-code/cmake-build-debug/CMakeFiles/leet_code.dir/53-max-subarray.cpp.obj"

@@ -3,4 +3,4 @@ project(leet_code)
 
 set(CMAKE_CXX_STANDARD 14)
 
-add_executable(leet_code main.cpp 136-single-number.cpp 121-stock-problem.cpp 53-max-subarray.cpp 242-valid-anagram.cpp 344-reverse-string.cpp 412-fizz-buzz.cpp)
+add_executable(leet_code main.cpp 136-single-number.cpp 121-stock-problem.cpp 53-max-subarray.cpp 242-valid-anagram.cpp 344-reverse-string.cpp 412-fizz-buzz.cpp 28-implement-strstr.cpp)

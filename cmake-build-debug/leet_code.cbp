@@ -86,6 +86,9 @@
 		<Unit filename="C:/Users/alias/CLionProjects/leet-code/136-single-number.cpp">
 			<Option target="leet_code"/>
 		</Unit>
+		<Unit filename="C:/Users/alias/CLionProjects/leet-code/169-majority-element.cpp">
+			<Option target="leet_code"/>
+		</Unit>
 		<Unit filename="C:/Users/alias/CLionProjects/leet-code/242-valid-anagram.cpp">
 			<Option target="leet_code"/>
 		</Unit>
@@ -99,6 +102,9 @@
 			<Option target="leet_code"/>
 		</Unit>
 		<Unit filename="C:/Users/alias/CLionProjects/leet-code/53-max-subarray.cpp">
+			<Option target="leet_code"/>
+		</Unit>
+		<Unit filename="C:/Users/alias/CLionProjects/leet-code/66-plus-one.cpp">
 			<Option target="leet_code"/>
 		</Unit>
 		<Unit filename="C:/Users/alias/CLionProjects/leet-code/main.cpp">

@@ -1,15 +1,31 @@
 #include <iostream>
+#include <vector>
+#include <algorithm>
+using namespace std;
 
-int main() {
-    std::string s = "hello";
-    std::string rev = "";
-    for (char c : s)
+int majorityElement(vector<int>& nums) {
+    std::sort(nums.begin(), nums.end());
+    int times = 0;
+    int tmp = nums[0];
+    for(int i = 0; i < nums.size() - 1; i++)
     {
-        rev += s.back();
-        s.pop_back();
+        if(nums[i] == tmp)
+            times++;
+        else
+        {
+            times = 1;
+            tmp = nums[i];
+
+        }
+        if(times == nums.size()/2 + 1)
+            return nums[i];
+
     }
-    s = rev;
-    std::cout << s;
+    return 0;
+}
+int main() {
+    vector <int> nums;
+    nums.push_back()
 
     return 0;
 }

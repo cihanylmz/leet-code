@@ -169,6 +169,32 @@ CMakeFiles/leet_code.dir/28-implement-strstr.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/leet_code.dir/28-implement-strstr.cpp.s"
 	C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\alias\CLionProjects\leet-code\28-implement-strstr.cpp -o CMakeFiles\leet_code.dir\28-implement-strstr.cpp.s
 
+CMakeFiles/leet_code.dir/66-plus-one.cpp.obj: CMakeFiles/leet_code.dir/flags.make
+CMakeFiles/leet_code.dir/66-plus-one.cpp.obj: ../66-plus-one.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\alias\CLionProjects\leet-code\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_9) "Building CXX object CMakeFiles/leet_code.dir/66-plus-one.cpp.obj"
+	C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\leet_code.dir\66-plus-one.cpp.obj -c C:\Users\alias\CLionProjects\leet-code\66-plus-one.cpp
+
+CMakeFiles/leet_code.dir/66-plus-one.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/leet_code.dir/66-plus-one.cpp.i"
+	C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\alias\CLionProjects\leet-code\66-plus-one.cpp > CMakeFiles\leet_code.dir\66-plus-one.cpp.i
+
+CMakeFiles/leet_code.dir/66-plus-one.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/leet_code.dir/66-plus-one.cpp.s"
+	C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\alias\CLionProjects\leet-code\66-plus-one.cpp -o CMakeFiles\leet_code.dir\66-plus-one.cpp.s
+
+CMakeFiles/leet_code.dir/169-majority-element.cpp.obj: CMakeFiles/leet_code.dir/flags.make
+CMakeFiles/leet_code.dir/169-majority-element.cpp.obj: ../169-majority-element.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\alias\CLionProjects\leet-code\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_10) "Building CXX object CMakeFiles/leet_code.dir/169-majority-element.cpp.obj"
+	C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\leet_code.dir\169-majority-element.cpp.obj -c C:\Users\alias\CLionProjects\leet-code\169-majority-element.cpp
+
+CMakeFiles/leet_code.dir/169-majority-element.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/leet_code.dir/169-majority-element.cpp.i"
+	C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\alias\CLionProjects\leet-code\169-majority-element.cpp > CMakeFiles\leet_code.dir\169-majority-element.cpp.i
+
+CMakeFiles/leet_code.dir/169-majority-element.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/leet_code.dir/169-majority-element.cpp.s"
+	C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\alias\CLionProjects\leet-code\169-majority-element.cpp -o CMakeFiles\leet_code.dir\169-majority-element.cpp.s
+
 # Object files for target leet_code
 leet_code_OBJECTS = \
 "CMakeFiles/leet_code.dir/main.cpp.obj" \
@@ -178,7 +204,9 @@ leet_code_OBJECTS = \
 "CMakeFiles/leet_code.dir/242-valid-anagram.cpp.obj" \
 "CMakeFiles/leet_code.dir/344-reverse-string.cpp.obj" \
 "CMakeFiles/leet_code.dir/412-fizz-buzz.cpp.obj" \
-"CMakeFiles/leet_code.dir/28-implement-strstr.cpp.obj"
+"CMakeFiles/leet_code.dir/28-implement-strstr.cpp.obj" \
+"CMakeFiles/leet_code.dir/66-plus-one.cpp.obj" \
+"CMakeFiles/leet_code.dir/169-majority-element.cpp.obj"
 
 # External object files for target leet_code
 leet_code_EXTERNAL_OBJECTS =
@@ -191,11 +219,13 @@ leet_code.exe: CMakeFiles/leet_code.dir/242-valid-anagram.cpp.obj
 leet_code.exe: CMakeFiles/leet_code.dir/344-reverse-string.cpp.obj
 leet_code.exe: CMakeFiles/leet_code.dir/412-fizz-buzz.cpp.obj
 leet_code.exe: CMakeFiles/leet_code.dir/28-implement-strstr.cpp.obj
+leet_code.exe: CMakeFiles/leet_code.dir/66-plus-one.cpp.obj
+leet_code.exe: CMakeFiles/leet_code.dir/169-majority-element.cpp.obj
 leet_code.exe: CMakeFiles/leet_code.dir/build.make
 leet_code.exe: CMakeFiles/leet_code.dir/linklibs.rsp
 leet_code.exe: CMakeFiles/leet_code.dir/objects1.rsp
 leet_code.exe: CMakeFiles/leet_code.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=C:\Users\alias\CLionProjects\leet-code\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_9) "Linking CXX executable leet_code.exe"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=C:\Users\alias\CLionProjects\leet-code\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_11) "Linking CXX executable leet_code.exe"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles\leet_code.dir\link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.

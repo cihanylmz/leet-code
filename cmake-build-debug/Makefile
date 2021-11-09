@@ -176,6 +176,30 @@ leet_code/fast:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\leet_code.dir\build.make CMakeFiles/leet_code.dir/136-single-number.cpp.s
 .PHONY : 136-single-number.cpp.s
 
+169-majority-element.obj: 169-majority-element.cpp.obj
+.PHONY : 169-majority-element.obj
+
+# target to build an object file
+169-majority-element.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\leet_code.dir\build.make CMakeFiles/leet_code.dir/169-majority-element.cpp.obj
+.PHONY : 169-majority-element.cpp.obj
+
+169-majority-element.i: 169-majority-element.cpp.i
+.PHONY : 169-majority-element.i
+
+# target to preprocess a source file
+169-majority-element.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\leet_code.dir\build.make CMakeFiles/leet_code.dir/169-majority-element.cpp.i
+.PHONY : 169-majority-element.cpp.i
+
+169-majority-element.s: 169-majority-element.cpp.s
+.PHONY : 169-majority-element.s
+
+# target to generate assembly for a file
+169-majority-element.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\leet_code.dir\build.make CMakeFiles/leet_code.dir/169-majority-element.cpp.s
+.PHONY : 169-majority-element.cpp.s
+
 242-valid-anagram.obj: 242-valid-anagram.cpp.obj
 .PHONY : 242-valid-anagram.obj
 
@@ -296,6 +320,30 @@ leet_code/fast:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\leet_code.dir\build.make CMakeFiles/leet_code.dir/53-max-subarray.cpp.s
 .PHONY : 53-max-subarray.cpp.s
 
+66-plus-one.obj: 66-plus-one.cpp.obj
+.PHONY : 66-plus-one.obj
+
+# target to build an object file
+66-plus-one.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\leet_code.dir\build.make CMakeFiles/leet_code.dir/66-plus-one.cpp.obj
+.PHONY : 66-plus-one.cpp.obj
+
+66-plus-one.i: 66-plus-one.cpp.i
+.PHONY : 66-plus-one.i
+
+# target to preprocess a source file
+66-plus-one.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\leet_code.dir\build.make CMakeFiles/leet_code.dir/66-plus-one.cpp.i
+.PHONY : 66-plus-one.cpp.i
+
+66-plus-one.s: 66-plus-one.cpp.s
+.PHONY : 66-plus-one.s
+
+# target to generate assembly for a file
+66-plus-one.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\leet_code.dir\build.make CMakeFiles/leet_code.dir/66-plus-one.cpp.s
+.PHONY : 66-plus-one.cpp.s
+
 main.obj: main.cpp.obj
 .PHONY : main.obj
 
@@ -335,6 +383,9 @@ help:
 	@echo ... 136-single-number.obj
 	@echo ... 136-single-number.i
 	@echo ... 136-single-number.s
+	@echo ... 169-majority-element.obj
+	@echo ... 169-majority-element.i
+	@echo ... 169-majority-element.s
 	@echo ... 242-valid-anagram.obj
 	@echo ... 242-valid-anagram.i
 	@echo ... 242-valid-anagram.s
@@ -350,6 +401,9 @@ help:
 	@echo ... 53-max-subarray.obj
 	@echo ... 53-max-subarray.i
 	@echo ... 53-max-subarray.s
+	@echo ... 66-plus-one.obj
+	@echo ... 66-plus-one.i
+	@echo ... 66-plus-one.s
 	@echo ... main.obj
 	@echo ... main.i
 	@echo ... main.s
